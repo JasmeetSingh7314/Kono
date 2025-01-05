@@ -1,1 +1,0 @@
-This directory will contain all the code related to server and db.
